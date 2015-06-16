@@ -1,7 +1,5 @@
 'use strict';
 
-var Bacon = require('baconjs');
-
 var busCache = {};
 exports.bus = function () {
     var busName = Array.prototype.slice.call(arguments).join('/');
