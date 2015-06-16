@@ -1,6 +1,6 @@
 {
   "name": "baconflux-global",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "baconflux us global.Bacon",
   "main": "index.js",
   "scripts": {
